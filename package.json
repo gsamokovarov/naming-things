@@ -1,0 +1,17 @@
+{
+  "name": "naming-things",
+  "description": "Naming things in code.",
+  "version": "0.0.1",
+  "author": "Genadi Samokovarov <gsamokovarov@gmail.com>",
+  "keywords": [
+    "code",
+    "best practices",
+    "naming",
+    "conventions",
+    "presentation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gsamokovarov/naming-things.git"
+  }
+}
